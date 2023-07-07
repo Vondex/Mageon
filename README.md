@@ -7,7 +7,7 @@
 
 <h2>Back End</h2>
 <li>Mageon SQL Database</li>
-<p>To generate the database run in SQL the file `Library-SQL-GenDB.sql` </p>
+<p>To generate the database run in SQL the file Library-SQL-GenDB.sql </p>
 
 <br>
 <h2>Front End</h2>
