@@ -12,4 +12,4 @@
 <br>
 
 <h2>Front End</h2>
-<li>C# & VB.NET </li>
+<li>C# & VS.NET </li>
